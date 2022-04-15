@@ -1,0 +1,9 @@
+.link{
+    margin-left: 14.5rem;
+}
+
+@media screen and (max-width: 700px){
+    .link{
+        margin-left: 7rem;
+    }
+}
